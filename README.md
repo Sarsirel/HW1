@@ -1,1 +1,1 @@
-Учебные задания курса Data Science
+Задание №1 курса Data Science
